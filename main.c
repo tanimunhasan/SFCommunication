@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: 20 Feb 2026
- *      Author: B4T
+ *      Author: Sayed
  */
 
 #include <stdio.h>
